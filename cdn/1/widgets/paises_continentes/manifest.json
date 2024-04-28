@@ -1,0 +1,21 @@
+{
+  "name": "paises_continentes",
+  "type": "widget",
+  "version": "1.11.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "exbVersion": "1.11.0",
+  "author": "Your Name",
+  "description": "Países y Continentes del Mundo",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 350
+  }
+}
